@@ -21,7 +21,7 @@ Puedes contactarte conmigo a través de la siguiente dirección de gmail: zilian
 
 # ¿Cuál es tu formación académica? (A Septiembre 2023) 🎓
 
-Actualmente soy Bachiller en Química Industrial 🧪, ex-alumno de la Universidad de la República, curso Jóvenes a Programar en Plan Ceibal y me capacito de forma independiente con webs como Udemy y freeCodeCamp, estoy en proceso de enrolarme en el bootcamp de Data Science de Henry. Soy bilingüe en el idioma inglés 🇬🇧, estudio la lengua desde los 3 años, además de que cuento con conocimientos básicos en el idioma francés 🇫🇷 y portugués 🇵🇹. 
+Actualmente soy Bachiller en Química Industrial 🧪, ex-alumno de la Universidad de la República, curso Jóvenes a Programar en Plan Ceibal y me capacito de forma independiente con webs como Udemy y freeCodeCamp, estoy en proceso de enrolarme en el bootcamp de Data Science de Coursera. Soy bilingüe en el idioma inglés 🇬🇧, estudio la lengua desde los 3 años, además de que cuento con conocimientos básicos en el idioma francés 🇫🇷 y portugués 🇵🇹. 
 
 # ¿Cuál es tu experiencia laboral? (A Septiembre 2023) 💼
 
