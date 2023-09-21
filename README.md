@@ -31,9 +31,9 @@ Soy pasante en una empresa y me formo en paralelo con la programación en SEO y 
 
 Soy Uruguayo 🇺🇾, de la heroica Ciudad de Paysandú. 🏞️
 
-# ¿Pasatiempos? 🌌
+# Pasatiempos 🌌
 
-Me gusta la exploración espacial 🚀 y la astronomía 🔭.
+Me gusta la exploración espacial 🚀 y la astronomía 🔭, el fútbol ⚽ e ir a ver al glorioso Peñarol siempre que puedo. 🟡⚫
 
 # ¿Gatos O Perros? 🐱🐶
 
