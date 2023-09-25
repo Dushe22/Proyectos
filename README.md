@@ -1,6 +1,6 @@
-# Joaquín Ziliani 🚀
+# Bienvenido 🚀
 
-¡Hola! 👋
+¡Hola! Soy Joaquin👋
 Bienvenido a mi espacio donde encontrarás los avances en mis proyectos y las tareas que voy realizando a lo largo de mi aprendizaje. 📊💻
 
 # ¿Qué lenguajes de Programación utilizo? 💡
