@@ -3,6 +3,10 @@
 ¡Hola! Soy Joaquin👋
 Bienvenido a mi espacio donde encontrarás los avances en mis proyectos y las tareas que voy realizando a lo largo de mi aprendizaje. 📊💻
 
+# LinkedIn
+
+https://www.linkedin.com/in/joaquin-ziliani-1b9b7b236/
+
 # ¿Qué lenguajes de Programación utilizo? 💡
 
 Actualmente estoy estudiando SQL y Python 🐍, aunque tengo conocimientos básicos en JavaScript. 📚
